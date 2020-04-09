@@ -1,4 +1,4 @@
-# The importance learning algorithm to converge site-avergaed kinetics
+# Importance learning algorithm to converge site-avergaed kinetics
 
 This repository contains code to perform calculations done in "Site-averaged kinetics for catalysts on amorphous supports: an importance learning algorithm". Please refer to reference 1 for the theory and background of the project.
 
