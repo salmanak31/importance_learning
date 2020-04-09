@@ -2,7 +2,7 @@
 
 This repository contains code to perform calculations done in "Site-averaged kinetics for catalysts on amorphous supports: an importance learning algorithm". Please refer to reference 1 for the theory and background of the project.
 
-<div style="text-align:center"><img src="images/il_algorithm.png" width=500></div>
+<div style="text-align:center"><img src="images/il_algorithm.gif" width=500></div>
 
 
 ## Usage
