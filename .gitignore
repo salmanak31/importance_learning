@@ -1,0 +1,14 @@
+.vscode
+.pyc
+__pycache__
+.ipynb_checkpoints
+test.json
+test.py
+logs/old/
+logs/logs.zip
+tests/siloxane_coordination
+loc.exe
+breaking_run/
+cluster_size/
+ipynb/Average rate and active site counting.ipynb
+ipynb/secret
